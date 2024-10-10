@@ -1,0 +1,61 @@
+.app-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.thank-you-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #ffffff;
+}
+.love-emoji-img {
+  height: 30px;
+  width: 30px;
+}
+.list-container {
+  list-style-type: none;
+}
+.thank-you-para {
+  color: #1e293b;
+  font-size: 10px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.thank-you-heading {
+  color: #0f172a;
+  font-size: 18px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.url-img {
+  height: 30px;
+  width: 30px;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.para {
+  color: #0f172a;
+  font-size: 29px;
+  font-family: 'Roboto';
+  padding: 13px;
+}
+.emoji-container {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  margin-top: 32px;
+  padding: 0px;
+}
+.name {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
